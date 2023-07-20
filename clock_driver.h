@@ -1,0 +1,1 @@
+void setRCC_84MHz(void);
